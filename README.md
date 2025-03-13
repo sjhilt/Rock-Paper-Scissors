@@ -9,16 +9,13 @@ A **cyberpunk-themed** Rock Paper Scissors game built with HTML, CSS, and JavaSc
 - **Responsive & Mobile-Friendly**
 
 ## 🚀 Live Demo
-Check out the live version here: **[Your Live Link Here]** 🔗
+Check out the live version here: **[https://stephenhilt.com/rps]** 🔗
 
 ## 🛠️ Technologies Used
 - HTML5
 - CSS3 (with Google Fonts & Animations)
 - JavaScript (DOM Manipulation & Game Logic)
 
-## 📸 Screenshots
-
-![Game Screenshot](https://your-screenshot-link.com)
 
 ## 🎮 How to Play
 1. Click on **Rock (✊), Paper (✋), or Scissors (✌️)** to make your move.
@@ -33,17 +30,17 @@ Check out the live version here: **[Your Live Link Here]** 🔗
 ## 🏗️ Setup & Installation
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/neon-rock-paper-scissors.git
+   git clone https://github.com/sjhilt/Rock-Paper-Scissors.git
    ```
 2. **Navigate into the project folder:**
    ```sh
-   cd neon-rock-paper-scissors
+   cd Rock-Paper-Scissors
    ```
 3. **Open `index.html` in your browser and play!**
 
 ## 📝 File Structure
 ```
-📁 neon-rock-paper-scissors
+📁 rock-paper-scissors
 │── index.html   # Main game structure
 │── styles.css   # Styling with neon effects
 │── script.js    # Game logic
